@@ -7,13 +7,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=I'm+Abderrahmane+deffaf;a+Web+Developer;)](https://git.io/typing-svg)
  </div>
  
-- 👋 Hi, I’m @abdoude12
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
-- 💞️ Enthusiast about AI/ML/DL
-- 📫 How to reach me abderrahmanedeffaf@gmail.com
+- 👋 Hi, I’m @zakarya
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning backend
+- 💞️ Enthusiast about cyber security and
+- 📫 How to reach me zakaryasaoual@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,tailwindcss,react,c,java,figma,ps,ai,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,react,c,figma,express,node,lunix,github)](https://skillicons.dev)
 
 <h3>For the Tools: </h3>
 
