@@ -16,7 +16,7 @@ I'm a passionate Computer Science student at Estin with a strong interest in bot
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
--Linux and Assembly
+- 🖥️ Linux and Assembly
 - 🛠️ Creating dynamic and responsive websites
 - 🌐 Fluent in Arabic, Intermediate in French, Pre-intermediate in English
 
