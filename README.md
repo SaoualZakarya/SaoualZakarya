@@ -13,12 +13,11 @@ I'm a passionate Computer Science student at Estin with a strong interest in bot
 
 ### Skills & Technologies
 
-- 💻 JavaScript, Python, HTML, CSS, C
-- ⚛️ React, Tailwind CSS
-- 🌐 Full Stack Web Development with [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/)
-- 🗄️ Database Management using [MongoDB](https://www.mongodb.com/)
-- 🔐 Cybersecurity and Web Security
-- 🖥️ Linux and Assembly
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Python](https://www.python.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [C](https://en.wikipedia.org/wiki/C_(programming_language))
+-  [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/)
+-  Database Management using [MongoDB](https://www.mongodb.com/)
+- <img src="https://raw.githubusercontent.com/zakaryaalgeria/zakaryaalgeria/main/assets/linux-logo.png" alt="Linux Logo" width="16" height="16"> Linux and Assembly <img src="https://raw.githubusercontent.com/zakaryaalgeria/zakaryaalgeria/main/assets/assembly-logo.png" alt="Assembly Logo" width="16" height="16">
 - 🛠️ Creating dynamic and responsive websites
 - 🌐 Fluent in Arabic, Intermediate in French, Pre-intermediate in English
 
