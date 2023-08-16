@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zakaria-saoual/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-saoual/"></a>
+  <a href="https://www.linkedin.com/in/zakaria-saoual/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-saoual/"></a> <a href="mailto:zakaryasaoual@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> </a> 
 </p>
 
 ---
