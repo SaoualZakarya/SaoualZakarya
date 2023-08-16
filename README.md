@@ -51,15 +51,14 @@ I'm a passionate Computer Science student at Estin with a strong interest in bot
 <a href="https://vercel.com" target="_blank">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="border-radius: 50%;" />
 </a>
-
-  
- 
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" style="border-radius: 50%;" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
   <img src="https://img.shields.io/badge/assembly-%23707070.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" style="border-radius: 50%;" />
 </a>
+
+
 - 🛠️ Creating dynamic and responsive websites
 - 🌐 Fluent in Arabic, Intermediate in French, Pre-intermediate in English
 
