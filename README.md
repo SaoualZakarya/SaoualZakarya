@@ -59,6 +59,7 @@ I'm a passionate Computer Science student at Estin with a strong interest in bot
 </a>
 
 
+
 - 🛠️ Creating dynamic and responsive websites
 - 🌐 Fluent in Arabic, Intermediate in French, Pre-intermediate in English
 
@@ -68,7 +69,7 @@ I'm open to freelance projects and always excited to collaborate on innovative p
 
 ### Let's Connect
 
-Connect with me on <a href="https://www.linkedin.com/in/zakaria-saoual/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-saoual/"></a> to stay updated with my latest projects and collaborations.
+Connect with me on <a href="https://www.linkedin.com/in/zakaria-saoual/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaria-saoual/"></a> [message me via email](mailto:zakaryasaoual@gmail.com) <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> to stay updated with my latest projects and collaborations.
 
 ---
 
