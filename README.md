@@ -10,7 +10,7 @@
 ### About Me
 <div align="center">
 ![Zakarya's top programming languages]
-  (https://github-readme-stats.vercel.app/api/top-langs?username=zakaryaalgeria&theme=tokyonight)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaryaalgeria&theme=tokyonight" alt="Zakarya's top programming languages">
 </div>
 I'm a passionate Computer Science student at Estin with a strong interest in both Full Stack Web Development and Cybersecurity. Currently, I'm focused on enhancing my skills in the world of web development and cybersecurity to build secure and innovative applications.
 
