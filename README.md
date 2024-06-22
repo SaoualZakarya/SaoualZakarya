@@ -8,13 +8,13 @@
 ---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaryaalgeria&label=Profile%20views&color=0e75b6&style=flat" alt="zakaryaalgeria" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaoualZakarya&label=Profile%20views&color=0e75b6&style=flat" alt="SaoualZakarya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaryaalgeria" alt="zakaryaalgeria" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaoualZakarya" alt="SaoualZakarya" /></a> </p> 
 
 ### About Me
 
-![Zakarya's top programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=zakaryaalgeria&theme=tokyonight)
+![Zakarya's top programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=SaoualZakarya&theme=tokyonight)
 
 I'm a passionate Computer Science student at Estin with a strong interest in both Full Stack Web Development and Cybersecurity. Currently, I'm focused on enhancing my skills in the world of web development and cybersecurity to build secure and innovative applications.
 
